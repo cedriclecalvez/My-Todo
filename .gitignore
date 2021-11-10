@@ -1,4 +1,9 @@
 dist/
 node_modules/
 .cache/
+_cacache/
+_locks/
+_logs/
+_npx/
 nodemon.json
+anonymous-cli-metrics.json
