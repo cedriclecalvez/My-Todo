@@ -7,3 +7,4 @@ _logs/
 _npx/
 nodemon.json
 anonymous-cli-metrics.json
+.env/

@@ -10,6 +10,7 @@ const getTodos = async (req: Request, res: Response): Promise<void> => {
 
     res.status(200).json({ todos });
   } catch (error) {
+    res.status(403).json({ message: "error with connexion",error: error });
     throw error;
   }
 };
