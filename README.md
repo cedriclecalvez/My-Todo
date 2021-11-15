@@ -4,7 +4,7 @@ Application without authentification fullstack MERN with Typescript
 
 ## Image application
 
-![Image application](./public/CaptureMyTodo.JPG)
+![Image application](./web/public/CaptureMyTodo.JPG)
 
 ## API
 `yarn watch` --> for typescript to update in real time the dist folder
