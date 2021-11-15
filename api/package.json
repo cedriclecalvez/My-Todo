@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "app.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cedriclecalvez/My-Todo.git"
+  },
   "scripts": {
     "build": "tsc",
     "start": "node .dist/js/app.js",
