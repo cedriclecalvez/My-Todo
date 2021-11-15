@@ -2,7 +2,7 @@
   "name": "fullstack-typescript-node",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "app.ts",
   "scripts": {
     "build": "tsc",
     "start": "node .dist/js/app.js",
