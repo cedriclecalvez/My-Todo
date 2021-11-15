@@ -1,5 +1,6 @@
 {
   "name": "fullstack-typescript-node",
+  "author": "Cedric Le Calvez",
   "version": "1.0.0",
   "description": "",
   "main": "app.ts",
