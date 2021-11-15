@@ -72,20 +72,22 @@ To learn React, check out the [React documentation](https://reactjs.org/).
     REACT_APP_API_BASE_URL
 
 ## Dependencies
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png"  width="100" height="50">
 
-<img src="https://blog.back4app.com/wp-content/uploads/2021/01/expressjs.png"  width="100" height="50">
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png"  height="50">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"  width="50" height="50">
+<img src="https://blog.back4app.com/wp-content/uploads/2021/01/expressjs.png"  height="50">
 
-<img src="https://accentsconagua.com/img/images_15/mapping-relational-databases-and-sql-to-mongodb_8.png"  width="100" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"  height="50">
 
-<img src="https://cdn-images-1.medium.com/fit/t/1600/480/1*iDvsmUwzZQxJSKdL0xzwIA.png"  width="100" height="50">
+<img src="https://accentsconagua.com/img/images_15/mapping-relational-databases-and-sql-to-mongodb_8.png"  height="50">
 
-<img src="https://user-images.githubusercontent.com/13700/35731649-652807e8-080e-11e8-88fd-1b2f6d553b2d.png"  width="50" height="50">
+<img src="https://cdn-images-1.medium.com/fit/t/1600/480/1*iDvsmUwzZQxJSKdL0xzwIA.png"  height="50">
 
-<img src="https://i.stack.imgur.com/kyKz5.png"  width="50" height="50">
+<img src="https://user-images.githubusercontent.com/13700/35731649-652807e8-080e-11e8-88fd-1b2f6d553b2d.png"  height="50">
 
+<img src="https://i.stack.imgur.com/kyKz5.png"  height="50">
+</p>
 
 **NodeJs :** an open-source, cross-platform, back-end JavaScript runtime environment
 
