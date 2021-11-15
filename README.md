@@ -78,7 +78,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"  width="50" height="50">
 
-<img src="http://assets.stickpng.com/images/58481021cef1014c0b5e494b.png"  width="100" height="50">
+<img src="https://accentsconagua.com/img/images_15/mapping-relational-databases-and-sql-to-mongodb_8.png"  width="100" height="50">
 
 <img src="https://cdn-images-1.medium.com/fit/t/1600/480/1*iDvsmUwzZQxJSKdL0xzwIA.png"  width="100" height="50">
 
