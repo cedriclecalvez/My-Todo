@@ -6,7 +6,9 @@
       "node": "14.x"
     },
     "description": "",
-    "main": "index.ts",
+    "main": "api/src/app",
+    
+    "typings": "dist/app",
     "license": "ISC"
     ,
     "scripts": {
