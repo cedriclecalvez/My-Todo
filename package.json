@@ -1,0 +1,16 @@
+{
+    "name": "fullstack-typescript-node",
+    "author": "Cedric Le Calvez",
+    "version": "1.0.0",
+    "engines": {
+      "node": "14.x"
+    },
+    "description": "",
+    "main": "index.ts",
+    "license": "ISC"
+    ,
+    "scripts": {
+        "heroku-postbuild": "cd api && npm i && npm run build && cd .. && cd web && npm i && npm run build"
+    }
+
+}
