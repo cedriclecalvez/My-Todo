@@ -2,6 +2,9 @@
   "name": "web",
   "author": "Cedric Le Calvez",
   "version": "0.1.0",
+  "engines": {
+    "node": "14.x"
+  },
   "license": "ISC",
   "private": true,
   "repository": {

@@ -10,7 +10,7 @@ app.use(express.json());
 const PORT = process.env.PORT;
 const URL: any =process.env.APP_BASE_URL
 
-// app.use(cors({origin:"http://localhost:1234"}));
+// app.use(cors({origin:"http://localhost:3001"}));
 app.use(cors());
 app.use(URL,todoRoutes);
 
